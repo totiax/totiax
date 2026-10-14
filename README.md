@@ -2,7 +2,7 @@
 
 # Matias Skuarok
 
-**Desarrollador Full-Stack · Freelance desde 2020**
+**Desarrollador Full-Stack · Freelance desde 2020**<br>
 Villa Carlos Paz, Córdoba, Argentina
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-c6ff00?style=for-the-badge&labelColor=16161a&color=c6ff00&logo=vercel&logoColor=16161a)](https://mi-portfolio-ruby.vercel.app)
@@ -49,12 +49,6 @@ Construyo sitios y aplicaciones web de punta a punta: desde la interfaz que ve e
 | [Mabe](https://blog.mabeglobal.com/) | Blog corporativo | Electrodomésticos |
 | [Cessi](https://cessi.org.ar/) | Sitio institucional | Cámara de software |
 | [Cupito](https://www.rinoplastiamiguelcupito.com/) | Sitio profesional | Salud |
-
-### Repos destacados
-
-| | |
-|---|---|
-| **[mi-portfolio](https://github.com/totiax/mi-portfolio)** — Mi portfolio en Next.js 16, React 19 y GSAP. [Ver en vivo](https://mi-portfolio-ruby.vercel.app) | **[unversd-cleaning](https://github.com/totiax/unversd-cleaning)** — Landing para un servicio de limpieza en Utah, con Next.js, Tailwind y Framer Motion. [Ver en vivo](https://unversd-cleaning.vercel.app) |
 
 ---
 
